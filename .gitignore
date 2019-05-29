@@ -1,0 +1,4 @@
+.env.gke
+.env.aws
+.env.local
+/**/scripts/*.yaml
